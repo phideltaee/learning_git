@@ -4,3 +4,6 @@ this file contains no code, but will have the most updated way to interact with 
 
 
 Added a few more lines for git purposes
+
+
+now added a few using the command prompt to check for changes
