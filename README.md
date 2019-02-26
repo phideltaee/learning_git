@@ -1,2 +1,2 @@
-# learning_git
-repository for trying out and learning Git
+# Very first working Git Repository
+this file contains no code, but will have the most updated way to interact with Git made by Fidel EE
