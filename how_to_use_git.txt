@@ -5,5 +5,9 @@
 "git status" 
 
 4) if it is changed. You need to upload the changes. So, add it to your commits
-git commit -m "added the explanation on how to use git"
-5) once this is done, the file is now commited. We need to push it to the repository. 
+	-> git add newfile.txt
+	-> (or) git add * (to add all files)
+
+5) To commit the changes to the repository use
+	-> git commit -m "added the explanation on how to use git"
+ once this is done, the file is now commited. We need to push it to the repository. 
