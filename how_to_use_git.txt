@@ -1,0 +1,9 @@
+1) to begin: write "git init" this will initialize a repository in your current folder. 
+2) once that's done, write "clone https://www.github.com/phideltaee/learning_git" which will add the learnig git repository to your current folder. 
+3) now, any file can be modified. This will change the current git status. 
+--> If a file is changed, check it in statuts
+"git status" 
+
+4) if it is changed. You need to upload the changes. So, add it to your commits
+git commit -m "added the explanation on how to use git"
+5) once this is done, the file is now commited. We need to push it to the repository. 
